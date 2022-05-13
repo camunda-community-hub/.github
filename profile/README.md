@@ -30,8 +30,8 @@ We’ve put together some commonly asked questions and answers on https://github
 
 If you develop a Java project, you can leverage the existing infrastructure for builds and releases to Maven Central.
 
-* Use a Maven Group Id based on: `org.camunda.community`
-* Add release parent pom ([as described here](https://github.com/camunda-community-hub/community-action-maven-release)):
+- Use a Maven Group Id based on: `org.camunda.community`
+- Add release parent pom ([as described here](https://github.com/camunda-community-hub/community-action-maven-release)):
 
 ```xml
 <parent>
@@ -41,8 +41,8 @@ If you develop a Java project, you can leverage the existing infrastructure for 
 </parent>
 ```
 
-* Add Github Action [as decribed here](https://github.com/camunda-community-hub/community-action-maven-release#add-github-workflow). Check that the build is working when you push code to your repo. 
+- Add Github Action [as decribed here](https://github.com/camunda-community-hub/community-action-maven-release#add-github-workflow). Check that the build is working when you push code to your repo. 
 
-Ü When you are ready to release, follow [performing a release](https://github.com/camunda-community-hub/community/blob/main/RELEASE.MD#performing-a-release).
+- When you are ready to release, follow [performing a release](https://github.com/camunda-community-hub/community/blob/main/RELEASE.MD#performing-a-release).
 
 
