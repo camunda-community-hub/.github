@@ -41,10 +41,8 @@ If you develop a Java project, you can leverage the existing infrastructure for 
 </parent>
 ```
 
-* Add Github Action [as decribed here](https://github.com/camunda-community-hub/community-action-maven-release#add-github-workflow).
+* Add Github Action [as decribed here](https://github.com/camunda-community-hub/community-action-maven-release#add-github-workflow). Check that the build is working when you push code to your repo. 
 
-Check that the build is working when you push code to your repo. When you are ready to do a release:
-
-* Follow [Performing a release](https://github.com/camunda-community-hub/community/blob/main/RELEASE.MD#performing-a-release)
+Ü When you are ready to release, follow [performing a release](https://github.com/camunda-community-hub/community/blob/main/RELEASE.MD#performing-a-release).
 
 
