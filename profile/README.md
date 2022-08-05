@@ -1,28 +1,27 @@
 # Welcome to the Camunda Community Hub!
-## A project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Camunda open source ecosystem. 
+A project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Camunda open source ecosystem. 
 
 Extensions in the Camunda Community Hub organization are independently led and maintained projects by members of the broader Camunda open source community, some of whom happen to be Camunda employees, or are projects/tutorials that are created and maintained by the Camunda Developer Relations team!
 
 With the Camunda Community Hub, we want to empower our open source community to contribute, and encourage new contributors to get started contributing to the Camunda open source ecosystem.
 
-**Table of Contents**
-
-* [Existing community extensions](#existing-community-extensions)
-* [How to contribute](#how-to-contribute)
-* [Troubleshooting](#troubleshooting)
+# Table of Contents
+- [Existing community extensions](#existing-community-extensions)
+- [How to contribute](#how-to-contribute)
+- [Troubleshooting](#troubleshooting)
 
 ## Existing community extensions
 
 You can find a list of existing community extensions by [browsing the repostories](https://github.com/orgs/camunda-community-hub/repositories) in this GitHub organization.
 
 You can also browse by Awesome Lists created by the community.
-- [Awesome Camunda External Task Clients](https://github.com/camunda-community-hub/awesome-camunda-external-clients)
-- [Awesome Camunda Platform 8 Projects](https://github.com/camunda-community-hub/awesome-camunda-platform-8)
-- [Awesome Camunda and Robot Framework Projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects)
+- [Awesome Camunda Platform 8 Projects](https://github.com/camunda-community-hub/awesome-camunda-platform-8): A curated list of awesome Camunda Platform 8 projects, mostly driven by the community.
+- [Awesome Camunda External Task Clients](https://github.com/camunda-community-hub/awesome-camunda-external-clients): Code snippets that help you to create an external task client in Camunda Platform 7.
+- [Awesome Camunda and Robot Framework Projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects): Projects that use Robot Framework for Robotic Process Automation (RPA) in combination with Camunda.
 
 ## How to contribute
 - [Open an issue](https://github.com/Camunda-Community-Hub/community/issues/new/) in the [community repository](https://github.com/Camunda-Community-Hub/community/) and ask to be invited to join the Camunda Community Hub (if you are not already a member).
-- Read our [Contributor's Guide](https://github.com/camunda-community-hub/community/blob/a6526a0f07893aa84434a2cadd9ffdc332a1f89d/CONTRIBUTING.MD#L25).
+- Read our [contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD).
 
 - Now either:
 
