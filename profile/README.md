@@ -1,48 +1,39 @@
-# The Camunda Community Hub
+# Welcome to the Camunda Community Hub!
+A project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Camunda open source ecosystem. 
 
-The Camunda Community Hub is Camunda's GitHub Organization for community contributed extensions. Those extensions are independently maintained by members of the Camunda open source community (with some maintainers happen to be Camunda employees too).
+Extensions in the Camunda Community Hub organization are independently led and maintained projects by members of the broader Camunda open source community, some of whom happen to be Camunda employees, or are projects/tutorials that are created and maintained by the Camunda Developer Relations team!
 
-With the Camunda Community Hub we want to empower our open source community to contribute, and encourage new contributors to get started contributing to the Camunda open source ecosystem.
+With the Camunda Community Hub, we want to empower our open source community to contribute, and encourage new contributors to get started contributing to the Camunda open source ecosystem.
+
+# Table of Contents
+- [Existing community extensions](#existing-community-extensions)
+- [How to contribute](#how-to-contribute)
+- [Troubleshooting](#troubleshooting)
 
 ## Existing community extensions
 
 You can find a list of existing community extensions by [browsing the repostories](https://github.com/orgs/camunda-community-hub/repositories) in this GitHub organization.
 
-## FAQ and further information
+You can also browse by Awesome Lists created by the community.
+- [Awesome Camunda Platform 8 Projects](https://github.com/camunda-community-hub/awesome-camunda-platform-8): A curated list of awesome Camunda Platform 8 projects, mostly driven by the community.
+- [Awesome Camunda External Task Clients](https://github.com/camunda-community-hub/awesome-camunda-external-clients): Code snippets that help you to create an external task client in Camunda Platform 7.
+- [Awesome Camunda and Robot Framework Projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects): Projects that use Robot Framework for Robotic Process Automation (RPA) in combination with Camunda.
 
-We’ve put together some commonly asked questions and answers on https://github.com/camunda-community-hub/community. If you have further questions, you can also ask via our [forum](https://forum.camunda.io/) or reach out to the [Camunda DevRel team](https://github.com/orgs/camunda-community-hub/teams/devrel) via email: community@camunda.com.
-
-## How to get my community extension to the Camunda Community Hub?
-
-- [Open an issue](https://github.com/Camunda-Community-Hub/community/issues/new/) in the [community repository](https://github.com/Camunda-Community-Hub/community/) and ask to be invited to join the Camunda Community Hub (if you are not already a collaborator).
-
-- Sign our [CLA](https://cla-assistant.io/camunda-community-hub/community) and agree to our [Code of Conduct](https://camunda.com/events/code-conduct/). 
+## How to contribute
+- [Open an issue](https://github.com/Camunda-Community-Hub/community/issues/new/) in the [community repository](https://github.com/Camunda-Community-Hub/community/) and ask to be invited to join the Camunda Community Hub (if you are not already a member).
+- Read our [contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD).
 
 - Now either:
 
-  - **Start a new community extension** by [opening an issue](https://github.com/Camunda-Community-Hub/community/issues/new/choose) using the `New Community Extension Proposal` template.
-  - **Transfer your existing repository** into the Camunda Community Hub (do not fork it into the Hub). 
+  - **Start a new community extension** by [opening an issue](https://github.com/Camunda-Community-Hub/community/issues/new/choose) using the `New Community Extension Proposal` template and following [this documentation.](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository#transferring-a-repository-owned-by-your-organization)
+  - [**Transfer your existing repository**](community/transferring-extensions.md) into the Camunda Community Hub.
+  - **Browse our existing projects** and issues and contribute.
 
-- Edit your extension's readme file and especially make use of [our lifecycle badges](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md).
+We’ve put together some commonly asked [questions and answers here.](https://github.com/camunda-community-hub/community) 
 
+## Troubleshooting
 
-## How to prepare a Java project for the Camunda Community Hub?
+If you have further questions, you can also ask via our [forum](https://forum.camunda.io/), the Camunda Community Hub [GitHub Discussions](https://github.com/camunda-community-hub/community/discussions), or reach out to the [Camunda DevRel team](https://github.com/orgs/camunda-community-hub/teams/devrel) via email: community@camunda.com.
 
-If you develop a Java project, you can leverage the existing infrastructure for builds and releases to Maven Central.
-
-- Use a Maven Group Id based on: `org.camunda.community`
-- Add release parent pom ([as described here](https://github.com/camunda-community-hub/community-action-maven-release)):
-
-```xml
-<parent>
-    <groupId>org.camunda.community</groupId>
-    <artifactId>community-hub-release-parent</artifactId>
-    <version>1.2.2</version>
-</parent>
-```
-
-- Add Github Action [as decribed here](https://github.com/camunda-community-hub/community-action-maven-release#add-github-workflow). Check that the build is working when you push code to your repo. 
-
-- When you are ready to release, follow [performing a release](https://github.com/camunda-community-hub/community/blob/main/RELEASE.MD#performing-a-release).
 
 
