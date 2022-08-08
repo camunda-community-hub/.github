@@ -33,11 +33,11 @@ You can also browse by Awesome Lists created by the community.
 We’ve put together some commonly asked [questions and answers here.](https://github.com/camunda-community-hub/community) 
 
 ### Contributor resources & documentation
-* [Contributor guide](CONTRIBUTING.MD)
-* [Issue triage and labeling](issue-triage.md)
-* [Maintainer & reviewer expectations](#maintainer-reviewer-expectations.md)
+* [Contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD)
+* [Issue triage and labeling](https://github.com/camunda-community-hub/community/blob/main/issue-triage.md)
+* [Maintainer & reviewer expectations]([#maintainer-reviewer-expectations.md](https://github.com/camunda-community-hub/community/blob/main/maintainer-reviewer-expectations.md))
 * [Automated release documentation](https://github.com/camunda-community-hub/community/blob/main/RELEASE.MD)
-* [Using our groupId for Java builds](groupId.md)
+* [Using our groupId for Java builds](https://github.com/camunda-community-hub/community/blob/main/groupId.md)
 
 ## Troubleshooting
 
