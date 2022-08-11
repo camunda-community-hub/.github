@@ -8,6 +8,7 @@ With the Camunda Community Hub, we want to empower our open source community to 
 # Table of Contents
 - [Existing community extensions](#existing-community-extensions)
 - [How to contribute](#how-to-contribute)
+  - [Contributor resources & documentation](#contributor-resources--documentation)
 - [Troubleshooting](#troubleshooting)
 
 ## Existing community extensions
@@ -20,16 +21,23 @@ You can also browse by Awesome Lists created by the community.
 - [Awesome Camunda and Robot Framework Projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects): Projects that use Robot Framework for Robotic Process Automation (RPA) in combination with Camunda.
 
 ## How to contribute
-- [Open an issue](https://github.com/Camunda-Community-Hub/community/issues/new/) in the [community repository](https://github.com/Camunda-Community-Hub/community/) and ask to be invited to join the Camunda Community Hub (if you are not already a member).
-- Read our [contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD).
+1. [Open an issue](https://github.com/Camunda-Community-Hub/community/issues/new/) in the [community repository](https://github.com/Camunda-Community-Hub/community/) and ask to be invited to join the Camunda Community Hub (if you are not already a member).
+2. Read our [contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD).
 
-- Now either:
+3. Now either:
 
-  - **Start a new community extension** by [opening an issue](https://github.com/Camunda-Community-Hub/community/issues/new/choose) using the `New Community Extension Proposal` template and following [this documentation.](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository#transferring-a-repository-owned-by-your-organization)
-  - [**Transfer your existing repository**](community/transferring-extensions.md) into the Camunda Community Hub.
-  - **Browse our existing projects** and issues and contribute.
+     - **Start a new community extension** by [opening an issue](https://github.com/Camunda-Community-Hub/community/issues/new/choose) using the `New Community Extension Proposal` template and following [this documentation.](https://docs.github.com/en/github/administering-a-repository/transferring-a-repository#transferring-a-repository-owned-by-your-organization)
+     - [**Transfer your existing repository**](community/transferring-extensions.md) into the Camunda Community Hub.
+     - **Browse our existing projects** and issues and contribute.
 
 We’ve put together some commonly asked [questions and answers here.](https://github.com/camunda-community-hub/community) 
+
+### Contributor resources & documentation
+* [Contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD)
+* [Issue triage and labeling](https://github.com/camunda-community-hub/community/blob/main/issue-triage.md)
+* [Maintainer & reviewer expectations]([#maintainer-reviewer-expectations.md](https://github.com/camunda-community-hub/community/blob/main/maintainer-reviewer-expectations.md))
+* [Automated release documentation](https://github.com/camunda-community-hub/community/blob/main/RELEASE.MD)
+* [Using our groupId for Java builds](https://github.com/camunda-community-hub/community/blob/main/groupId.md)
 
 ## Troubleshooting
 
