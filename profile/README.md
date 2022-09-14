@@ -16,6 +16,7 @@ With the Camunda Community Hub, we want to empower our open source community to 
 You can find a list of existing community extensions by [browsing the repostories](https://github.com/orgs/camunda-community-hub/repositories) in this GitHub organization.
 
 You can also browse by Awesome Lists created by the community.
+- [Awesome Camunda Platform 8 Connectors](https://github.com/camunda-community-hub/camunda-8-connectors): A curated list of awesome Camunda Platform 8 Connectors projects, driven by the community, partners, and Camundos.
 - [Awesome Camunda Platform 8 Projects](https://github.com/camunda-community-hub/awesome-camunda-platform-8): A curated list of awesome Camunda Platform 8 projects, mostly driven by the community.
 - [Awesome Camunda External Task Clients](https://github.com/camunda-community-hub/awesome-camunda-external-clients): Code snippets that help you to create an external task client in Camunda Platform 7.
 - [Awesome Camunda and Robot Framework Projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects): Projects that use Robot Framework for Robotic Process Automation (RPA) in combination with Camunda.
