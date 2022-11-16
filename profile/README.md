@@ -43,6 +43,4 @@ We’ve put together some commonly asked [questions and answers here.](https://g
 ## Troubleshooting
 
 If you have further questions, you can also ask via our [forum](https://forum.camunda.io/), the Camunda Community Hub [GitHub Discussions](https://github.com/camunda-community-hub/community/discussions), or reach out to the [Camunda DevRel team](https://github.com/orgs/camunda-community-hub/teams/devrel) via email: community@camunda.com.
-
-
-
+<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=4bf68f6c-6d30-46ea-a1ba-f81ab268f218" />
