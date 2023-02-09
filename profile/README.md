@@ -30,6 +30,7 @@ You can also browse by Awesome Lists created by the community.
      - **Start a new community extension** by [opening an issue](https://github.com/Camunda-Community-Hub/community/issues/new/choose) using the `New Community Extension Proposal` template.
      - [**Transfer your existing repository**](https://github.com/camunda-community-hub/community/blob/main/transferring-extensions.md) into the Camunda Community Hub.
      - [**Browse our existing projects**](https://github.com/orgs/camunda-community-hub/repositories) and issues and contribute.
+        - [**Check out this Project for Good First Issues!**](https://github.com/orgs/camunda-community-hub/projects/3/views/1)
 
 We’ve put together some commonly asked [questions and answers here.](https://github.com/camunda-community-hub/community) 
 
