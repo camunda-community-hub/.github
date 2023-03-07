@@ -69,7 +69,6 @@ If you have further questions or are encountering a problem, remember that the c
 * Or, reach out to the [Camunda DevRel team](https://github.com/orgs/camunda-community-hub/teams/devrel) by tagging us in an issue or PR `@camunda-community-hub/devrel` or via email: community@camunda.com
   * Note: Tagging `@camunda-community-hub/devrel` works best so we can get to you as quickly as possible.
   
-<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=4bf68f6c-6d30-46ea-a1ba-f81ab268f218" />
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -91,3 +90,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=4bf68f6c-6d30-46ea-a1ba-f81ab268f218" />
+
