@@ -81,4 +81,3 @@ If you have further questions or are encountering a problem, remember that the c
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
