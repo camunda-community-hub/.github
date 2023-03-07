@@ -80,6 +80,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://xomiamoore.carrd.co/"><img src="https://avatars.githubusercontent.com/u/43454823?v=4?s=100" width="100px;" alt="Mia Moore"/><br /><sub><b>Mia Moore</b></sub></a><br /><a href="https://github.com/camunda-community-hub/.github/commits?author=xomiamoore" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://dev.to/missamarakay"><img src="https://avatars.githubusercontent.com/u/1051363?v=4?s=100" width="100px;" alt="Amara Graham"/><br /><sub><b>Amara Graham</b></sub></a><br /><a href="https://github.com/camunda-community-hub/.github/pulls?q=is%3Apr+reviewed-by%3Aakeller" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>
