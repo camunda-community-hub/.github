@@ -71,4 +71,4 @@ If you have further questions or are encountering a problem, remember that the c
 
 ## Contributors
 
-[![All Contributors](https://img.shields.io/github/all-contributors/Camunda-Community-Hub/.github/profile?color=ee8449&style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/github/all-contributors/Camunda-Community-Hub/.github?color=ee8449&style=flat-square)](#contributors)
