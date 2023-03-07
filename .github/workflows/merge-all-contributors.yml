@@ -2,4 +2,4 @@ name: merge-all-contributors
 uses: openclimatefix/merge-all-contributors@v1.0.2
 on: push
 with:
-  orgName: camunda-community-hub
+  orgName: 'camunda-community-hub'
