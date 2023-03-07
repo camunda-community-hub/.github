@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/Community%20Extension-An%20open%20source%20community%20maintained%20project-FF4700)](https://github.com/camunda-community-hub/community) [![All Contributors](https://img.shields.io/github/all-contributors/Camunda-Community-Hub/.github?color=ee8449&style=flat-square)](#contributors)
+
 # Welcome to the Camunda Community Hub!
 The Camunda Community Hub is a project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Camunda open source ecosystem. 
 
@@ -71,4 +73,12 @@ If you have further questions or are encountering a problem, remember that the c
 
 ## Contributors
 
-[![All Contributors](https://img.shields.io/github/all-contributors/Camunda-Community-Hub/.github?color=ee8449&style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
