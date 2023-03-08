@@ -15,7 +15,7 @@ Extensions in the Camunda Community Hub organization are independently led and m
   - [Contributor resources \& documentation](#contributor-resources--documentation)
 - [Share your work](#share-your-work)
 - [Troubleshooting and community support](#troubleshooting-and-community-support)
-- [Contributors](#contributors)
+- [Contributors ✨](#contributors-)
 
 ## Existing community extensions
 
@@ -56,6 +56,7 @@ We highly encourage you to share about your extension, its wider impact for the 
 * [GitHub Discussions - Share Your Work](https://github.com/orgs/camunda-community-hub/discussions/categories/share-your-work)
 * [Camunda Platform forum - Community Extensions](https://forum.camunda.io/c/community-extensions/13)
 * [BPMN.io forum](https://forum.bpmn.io/)
+* Add your project to one of the relevant [Awesome lists above](#existing-community-extensions)
 
 We also encourage you to share in whatever way you would like! Write a blog post, make a video demonstration, share at a meet-up -- and then let everyone know about your project! 
 
@@ -70,6 +71,8 @@ If you have further questions or are encountering a problem, remember that the c
   * Note: Tagging `@camunda-community-hub/devrel` works best so we can get to you as quickly as possible.
   
 ## Contributors ✨
+
+_This section is a work in progress, pardon our mess!_
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
