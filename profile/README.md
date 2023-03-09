@@ -11,8 +11,7 @@ Extensions in the Camunda Community Hub organization are independently led and m
 # Table of Contents
 - [Existing community extensions](#existing-community-extensions)
 - [How to contribute](#how-to-contribute)
-  - [FAQ](#faq)
-  - [Contributor resources \& documentation](#contributor-resources--documentation)
+  - [Contributor resources](#contributor-resources)
 - [Share your work](#share-your-work)
 - [Troubleshooting and community support](#troubleshooting-and-community-support)
 - [Contributors ✨](#contributors-)
@@ -28,22 +27,20 @@ You can also browse by Awesome Lists created by the community.
 - [Awesome Camunda and Robot Framework Projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects): Projects that use Robot Framework for Robotic Process Automation (RPA) in combination with Camunda.
 
 ## How to contribute
-1. [Open an issue](https://github.com/Camunda-Community-Hub/community/issues/new/) in the [community repository](https://github.com/Camunda-Community-Hub/community/) and ask to be invited to join the Camunda Community Hub (if you are not already a member).
-2. Read our [contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD).
+1. [Open an issue in the community repository](https://github.com/Camunda-Community-Hub/community/issues/new/) and ask to be invited to join the Camunda Community Hub (if you are not already a member).
+
+2. Review our [contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD) and [Code of Conduct](https://camunda.com/events/code-conduct/). 
+
 
 3. Now either:
 
      - **Start a new community extension** by [opening an issue](https://github.com/Camunda-Community-Hub/community/issues/new/choose) using the `New Community Extension Proposal` template.
      - [**Transfer your existing repository**](https://github.com/camunda-community-hub/community/blob/main/transferring-extensions.md) into the Camunda Community Hub.
      - [**Browse our existing projects**](https://github.com/orgs/camunda-community-hub/repositories) and issues and contribute.
-        - [**Check out this Project for Good First Issues!**](https://github.com/orgs/camunda-community-hub/projects/3/views/1)
-  
+        - [**Check out this board for Good First Issues!**](https://github.com/orgs/camunda-community-hub/projects/3/views/1)
 
-### FAQ
-
-We’ve put together some commonly asked [questions and answers here.](https://github.com/camunda-community-hub/community) 
-
-### Contributor resources & documentation
+### Contributor resources
+* [FAQ](https://github.com/camunda-community-hub/community) 
 * [Contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD)
 * [Issue triage and labeling](https://github.com/camunda-community-hub/community/blob/main/issue-triage.md)
 * [Maintainer & reviewer expectations](https://github.com/camunda-community-hub/community/blob/main/maintainer-reviewer-expectations.md)
