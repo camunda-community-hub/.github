@@ -1,4 +1,5 @@
 [![](https://img.shields.io/badge/Community%20Extension-An%20open%20source%20community%20maintained%20project-FF4700)](https://github.com/camunda-community-hub/community) [![All Contributors](https://img.shields.io/github/all-contributors/Camunda-Community-Hub/.github?color=ee8449&style=flat-square)](#contributors)
+  ![Camunda-Community-Hub_1500x500](https://user-images.githubusercontent.com/43454823/224776300-db040f30-6a82-4e2e-93fb-ac8d49298bdd.png)
 
 # Welcome to the Camunda Community Hub!
 The Camunda Community Hub is a project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Camunda open source ecosystem. 
@@ -66,7 +67,7 @@ If you have further questions or are encountering a problem, remember that the c
 * The [Camunda user forum](https://forum.camunda.io/) is helpful for troubleshooting and asking questions about all things Camunda.
 * Or, reach out to the [Camunda DevRel team](https://github.com/orgs/camunda-community-hub/teams/devrel) by tagging us in an issue or PR `@camunda-community-hub/devrel` or via email: community@camunda.com
   * Note: Tagging `@camunda-community-hub/devrel` works best so we can get to you as quickly as possible.
-  
+
 ## Contributors ✨
 
 _This section is a work in progress, pardon our mess!_
