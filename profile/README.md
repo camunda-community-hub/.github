@@ -39,14 +39,14 @@ You can also browse by Awesome Lists created by the community.
      - [**Transfer your existing repository**](https://github.com/camunda-community-hub/community/blob/main/transferring-extensions.md) into the Camunda Community Hub.
      - [**Browse our existing projects**](https://github.com/orgs/camunda-community-hub/repositories) and issues and contribute.
         - [**Check out this board for Good First Issues!**](https://github.com/orgs/camunda-community-hub/projects/3/views/1)
-
+  
 ### Contributor resources
 * [FAQ](https://github.com/camunda-community-hub/community) 
 * [Contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD)
 * [Issue triage and labeling](https://github.com/camunda-community-hub/community/blob/main/issue-triage.md)
 * [Maintainer & reviewer expectations](https://github.com/camunda-community-hub/community/blob/main/maintainer-reviewer-expectations.md)
-* [Automated release documentation](https://github.com/camunda-community-hub/community/blob/main/RELEASE.MD)
-* [Using our groupId for Java builds](https://github.com/camunda-community-hub/community/blob/main/groupId.md)
+* [Maven & Docker automated release documentation](https://github.com/camunda-community-hub/community/blob/main/RELEASE.MD)
+* [Using our Maven groupId for Java builds - GitHub Action](https://github.com/camunda-community-hub/community-action-maven-release#add-github-workflow)
 
 ## Share your work
 We highly encourage you to share about your extension, its wider impact for the open source community, and what made you decide to build a community extension. We have the following platforms available:
