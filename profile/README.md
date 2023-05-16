@@ -1,5 +1,6 @@
-[![](https://img.shields.io/badge/Community%20Extension-An%20open%20source%20community%20maintained%20project-FF4700)](https://github.com/camunda-community-hub/community) [![All Contributors](https://img.shields.io/github/all-contributors/Camunda-Community-Hub/.github?color=ee8449&style=flat-square)](#contributors)
-  ![Camunda-Community-Hub_1500x500](https://user-images.githubusercontent.com/43454823/224776300-db040f30-6a82-4e2e-93fb-ac8d49298bdd.png)
+[![](https://img.shields.io/badge/Community%20Extension-An%20open%20source%20community%20maintained%20project-FF4700)](https://github.com/camunda-community-hub/community) [![](https://cauldron.io/project/6866/export/svg/git_contributors.svg)](#contributors)
+ 
+ ![Camunda-Community-Hub_1500x500](https://user-images.githubusercontent.com/43454823/224776300-db040f30-6a82-4e2e-93fb-ac8d49298bdd.png)
 
 # Welcome to the Camunda Community Hub!
 The Camunda Community Hub is a project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Camunda open source ecosystem. 
