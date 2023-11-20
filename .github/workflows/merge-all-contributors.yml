@@ -16,7 +16,7 @@ jobs:
       uses: openclimatefix/merge-all-contributors@v1.0.3
       with:
         orgName: camunda-community-hub
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - run: sudo apt-get install -y moreutils
 
     - name: Write to file
