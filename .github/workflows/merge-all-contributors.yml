@@ -22,7 +22,7 @@ jobs:
     - name: Write to file
       run: cat .all-contributorsrc | jq '.contributors = ${{steps.contributors.outputs.contributors}}' | sponge .all-contributorsrc
     - name: Setup Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
         node-version: 16
         cache: yarn
