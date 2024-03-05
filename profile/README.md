@@ -19,10 +19,11 @@ Extensions in the Camunda Community Hub organization are independently led and m
 
 ## Existing community extensions
 
-Explore Camunda 8 connectors in [the Camunda Marketplace](https://marketplace.camunda.com/en-US/home
-).
 
 You can find a list of existing community extensions by [browsing the repostories](https://github.com/orgs/camunda-community-hub/repositories) in this GitHub organization.
+
+Explore Camunda 8 connectors in [the Camunda Marketplace](https://marketplace.camunda.com/en-US/home
+).
 
 You can also browse by Awesome Lists created by the community:
 - [Awesome Camunda 8 Connectors](https://github.com/camunda-community-hub/camunda-8-connectors): A curated list of awesome Camunda 8 Connectors projects, driven by the community, partners, and Camundi.
@@ -33,28 +34,28 @@ You can also browse by Awesome Lists created by the community:
 ## How to contribute
 1. [Open an issue in the community repository](https://github.com/Camunda-Community-Hub/community/issues/new/) and ask to be invited to join the Camunda Community Hub (if you are not already a member).
 
-2. Review our [contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD) and [Code of Conduct](https://camunda.com/events/code-conduct/). 
+2. Review our [contributor guide](https://github.com/camunda-community-hub/community/blob/main/docs/CODE_OF_CONDUCT.MD) and [Code of Conduct](https://camunda.com/events/code-conduct/). 
 
 
 3. Now either:
 
      - **Start a new community extension** by [opening an issue](https://github.com/Camunda-Community-Hub/community/issues/new/choose) using the `New Community Extension Proposal` template.
-     - [**Transfer your existing repository**](https://github.com/camunda-community-hub/community/blob/main/transferring-extensions.md) into the Camunda Community Hub.
+     - [**Transfer your existing repository**](https://github.com/camunda-community-hub/community/blob/853edbf35311edf7ccbd402cd157aca1337a0e32/maintainers-reviewers/transferring-extensions.md) into the Camunda Community Hub.
      - [**Browse our existing projects**](https://github.com/orgs/camunda-community-hub/repositories) and issues and contribute.
-        - [**Check out this board for Good First Issues!**](https://github.com/orgs/camunda-community-hub/projects/3/views/1)
+        - [**Check out this board for Good First Issues**](https://github.com/orgs/camunda-community-hub/projects/3/views/1)
   
 ### Contributor resources
 * [FAQ](https://github.com/camunda-community-hub/community) 
 * [Contributor guide](https://github.com/camunda-community-hub/community/blob/main/CONTRIBUTING.MD)
 * [Issue triage and labeling](https://github.com/camunda-community-hub/community/blob/main/issue-triage.md)
-* [Maintainer & reviewer expectations](https://github.com/camunda-community-hub/community/blob/main/maintainer-reviewer-expectations.md)
-* [Maven & Docker automated release documentation](https://github.com/camunda-community-hub/community/blob/main/RELEASE.MD)
+* [Maintainer & reviewer expectations](https://github.com/camunda-community-hub/community/blob/853edbf35311edf7ccbd402cd157aca1337a0e32/maintainers-reviewers/maintainer-reviewer-expectations.md)
+* [Maven & Docker automated release documentation](√)
 * [Using our Maven groupId for Java builds - GitHub Action](https://github.com/camunda-community-hub/community-action-maven-release#add-github-workflow)
 
 ## Share your work
 We highly encourage you to share about your extension, its wider impact for the open source community, and what made you decide to build a community extension. We have the following platforms available:
 
-* [Camunda Martketplace](https://marketplace.camunda.com/en-US/pages/submitConnector): submit your Connectors to the Marketplace.
+* [Camunda Martketplace](https://marketplace.camunda.com/en-US/pages/submitConnector): Submit your Connectors to the Marketplace.
 * [GitHub Discussions - Share Your Work](https://github.com/orgs/camunda-community-hub/discussions/categories/share-your-work)
 * [Camunda forum - Community Extensions](https://forum.camunda.io/c/community-extensions/13)
 * [BPMN.io forum](https://forum.bpmn.io/)
