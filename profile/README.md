@@ -64,5 +64,3 @@ If you have further questions or are encountering a problem, remember that the c
 * The Camunda Community Hub [GitHub Discussions](https://github.com/camunda-community-hub/community/discussions) is for issues or requests regarding the Community Hub.
 * For specific projects, please reach out according to that repo's guidelines.
 * The [Camunda forum](https://forum.camunda.io/) is helpful for troubleshooting and asking questions about all things Camunda.
-* Or, reach out to the [Camunda DevRel team](https://github.com/orgs/camunda-community-hub/teams/devrel) by tagging us in an issue or PR `@camunda-community-hub/devrel` or via email: community@camunda.com
-  * Note: Tagging `@camunda-community-hub/devrel` vs. an invividual works best so we can get to you as quickly as possible.
